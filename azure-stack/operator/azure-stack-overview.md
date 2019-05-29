@@ -28,7 +28,7 @@ Azure Stack is an extension of Azure that provides a way to run applications in 
 
 Azure provides a rich platform for developers to build modern applications. However, some cloud-based applications face obstacles such as latency, intermittent connectivity, and regulations. Azure and Azure Stack unlock new hybrid cloud use cases for both customer-facing and internal line of business applications:
 
-- **Edge and disconnected solutions**. Address latency and connectivity requirements by processing data locally in Azure Stack and then aggregating it in Azure for further analytics, with common application logic across both. You can even deploy Azure Stack disconnected from the internet without connectivity to Azure. Think of factory floors, cruise ships, and mine shafts as examples.
+- **Edge and disconnected solutions**. Address text and connectivity requirements by processing data locally in Azure Stack and then aggregating it in Azure for further analytics, with common application logic across both. You can even deploy Azure Stack disconnected from the internet without connectivity to Azure. Think of factory floors, cruise ships, and mine shafts as examples.
 
 - **Cloud applications that meet varied regulations**. Develop and deploy applications in Azure, with full flexibility to deploy on-premises with Azure Stack to meet regulatory or policy requirements, with no code changes needed. Application examples include global audit, financial reporting, foreign exchange trading, online gaming, and expense reporting.
 
